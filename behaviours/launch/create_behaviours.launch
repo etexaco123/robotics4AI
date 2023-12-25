@@ -1,0 +1,6 @@
+<launch>
+
+	<rosparam command="load" file="$(find behaviours)/config/$(arg file).yaml" />	
+	<node name="behaviours" pkg="behaviours" type="createBehaviours.py" output="screen" required="true" />
+	
+</launch>

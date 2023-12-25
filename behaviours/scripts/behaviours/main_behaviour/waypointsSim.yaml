@@ -1,0 +1,5 @@
+startLocation: [0.0, 1.0, 0.0, 1.0]
+dropLocation: [1.0, 0.0, 0.0, 1.0]
+recoverLocation: [-1.0, 0.0, 0.0, 1.0]
+location1: [1.25, 3.0, 0.0, 1.0]
+location2: [-3.2, 0.5, 1.0, 0.0]

@@ -1,0 +1,9 @@
+main_behaviour: main_behaviour
+sub_behaviours:
+ - receive_order
+ - navigate
+ - approach
+ - recognize
+ - grasp
+ - drop
+
